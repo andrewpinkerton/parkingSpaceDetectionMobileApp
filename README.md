@@ -10,7 +10,4 @@ Parking Lot Details: Offers detailed information about each parking lot, includi
 Directions: Provides turn-by-turn directions from the user's current location to the selected parking lot.
 
 Technologies Used
-React Native: A framework for building native mobile applications using React.
-TypeScript: A statically typed superset of JavaScript that enhances code quality and maintainability.
-Expo: A platform for building and deploying React Native applications with ease.
-Map Integration: Utilizes mapping services to render the interactive campus map and handle location-based features.
+React Native, TypeScript, Expo
