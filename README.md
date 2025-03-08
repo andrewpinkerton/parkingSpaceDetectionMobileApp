@@ -7,7 +7,5 @@ Real-Time Parking Availability: Provides current information on the number of av
 
 Parking Lot Details: Offers detailed information about each parking lot, including location and available spaces.
 
-Directions: Provides turn-by-turn directions from the user's current location to the selected parking lot.
-
 Technologies Used
 React Native, TypeScript, Expo
