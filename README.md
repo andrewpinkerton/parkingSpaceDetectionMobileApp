@@ -1,4 +1,3 @@
-Parking Space Detection Mobile App
 The Parking Space Detection Mobile App is designed to help users locate available parking spaces on campus. Leveraging real-time data and an interactive map, the app provides users with up-to-date information on parking availability and directions to parking lots.
 
 Features
